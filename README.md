@@ -1,2 +1,2 @@
 # mcsrv
-minecraft docker container
+minecraft container for marisa
